@@ -5,10 +5,10 @@ Documents like important.doc ended up as important_v2_final_reviewed.doc.
 
 This tool lets you generate your own legacy names for your new files!
 
-##Usage
+## Usage
 `python legacy-name-generator.py -f important.doc`
 
-##Options
+## Options
 -h help, shows options
 
 -f filename, to generate legacy name for
@@ -17,5 +17,5 @@ This tool lets you generate your own legacy names for your new files!
 
 -s seperator, seperator of legacy names
 
-##contact
+## Contact
 For more information or questions contact: github@jellesmeets.nl
