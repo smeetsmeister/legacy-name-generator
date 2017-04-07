@@ -48,8 +48,11 @@ def main(argv):
       elif opt in ("-l", "--length"):
          length = int(arg)
 
-   legacyName = getLegacyName(filename, seperator, length);
-   print 'New Legacy name is: ', legacyName
+   if filename != '':
+      legacyName = getLegacyName(filename, seperator, length);
+      print 'New Legacy name is: ', legacyName
+   else:
+      print 'No legacy filename was entered.'
 
 if __name__ == "__main__":
    main(sys.argv[1:])
