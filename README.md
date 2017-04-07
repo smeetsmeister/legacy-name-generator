@@ -22,7 +22,7 @@ This tool lets you generate your own legacy names for your new files!
 Some example outputs for:
 
 `
-python legacy-name-generator.py -f important.doc`
+python legacy-name-generator.py -f important.doc
 `
 
 `
