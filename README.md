@@ -18,13 +18,10 @@ This tool lets you generate your own legacy names for your new files!
 -s seperator, seperator of legacy names
 
 ## Example outputs
-
-Some example outputs for:
-
 `
 python legacy-name-generator.py -f important.doc
 `
-
+Output:
 `
 New Legacy name is:  important_review_v3_v2_final2.doc
 
