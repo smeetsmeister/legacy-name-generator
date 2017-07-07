@@ -3,7 +3,7 @@
 import sys, getopt, random
 
 def getRandomWords(length):
-   words = ['v1', 'v2', 'v3', 'final', 'draft', 'tested', 'updated', 'review', 'final2', 'new', 'todo', 'with-comments', 'incomplete'];
+   words = ['v1', 'v2', 'v3', 'final', 'draft', 'tested', 'updated', 'review', 'final2', 'new', 'todo', 'with-comments', 'incomplete', 'backup', 'formatted'];
 
    return random.sample(words, length);
 
