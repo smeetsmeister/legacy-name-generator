@@ -25,6 +25,10 @@ New Legacy name is: important_v3_new_v1_final2.doc
 
 New Legacy name is:  important_draft_review_tested_updated.doc
 
+## Build status
+
+[ ![Codeship Status for smeetsmeister/legacy-name-generator](https://app.codeship.com/projects/0393a210-45e5-0135-c3c1-3602b75f498a/status?branch=master)](https://app.codeship.com/projects/231302)
+
 
 ## Contact
 For more information or questions contact: github@jellesmeets.nl
